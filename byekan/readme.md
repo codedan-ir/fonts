@@ -4,8 +4,9 @@
 
 میتوانید کد زیر را در فایل style.css خود مستقیم کپی کرده و استفاده کنید.
 
-'''
+
 /*  CodeDan.ir  */
+```css
 
 @font-face {
 	font-family: 'codedanbyekan';
@@ -15,4 +16,4 @@
 	font-style: normal
 }
 
-'''
+```
