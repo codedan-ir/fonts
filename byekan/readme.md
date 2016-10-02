@@ -17,3 +17,8 @@
 }
 
 ```
+
+یا این لینک را در قسمت <head> سایت قرار دهید.
+```
+<link rel="stylesheet" href="http://res.cloudinary.com/codedan/raw/upload/v1475400623/font-yekan_pxx2y5.css" media="screen"> 
+```
