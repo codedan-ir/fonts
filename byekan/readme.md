@@ -5,9 +5,9 @@
 میتوانید کد زیر را در فایل style.css خود مستقیم کپی کرده و استفاده کنید.
 
 
-/*  CodeDan.ir  */
 ```css
 
+/*  CodeDan.ir  */
 @font-face {
 	font-family: 'codedanbyekan';
 	src: url(http://res.cloudinary.com/codedan/raw/upload/v1475400076/codedanbyekan_qpmwvj.eot);
