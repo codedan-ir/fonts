@@ -1,2 +1,2 @@
 # Persian Fonts
-Persian fonts used by CDN network in your themes.
+Persian fonts to used in your themes directly or through CDN network.
