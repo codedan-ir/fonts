@@ -3,7 +3,7 @@
   font-family: 'yekanWeb';
   src: url('yekanWeb.eot'); /* IE9 Compat Modes */
   src: url('yekanWeb.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('yekanWeb.woff') format('woff2'), /* Super Modern Browsers */
+       url('yekanWeb.woff2') format('woff2'), /* Super Modern Browsers */
        url('yekanWeb.woff') format('woff'), /* Pretty Modern Browsers */
        url('yekanWeb.ttf')  format('truetype'), /* Safari, Android, iOS */
        url('yekanWeb.svg#svgFontName') format('svg'); /* Legacy iOS */
